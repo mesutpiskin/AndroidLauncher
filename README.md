@@ -1,5 +1,5 @@
 
-<hr>
+#Launcher app for Android
 Basic launcher with Java for Android OS
 This project is java launcher application for android. It has been developed for Android learning courses.
 See here for more information http://mesutpiskin.com/blog/android-launcher-yapmak.html
